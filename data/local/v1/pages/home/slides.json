@@ -1,0 +1,59 @@
+{
+    "slides": [
+        {
+            "id": "welcome",
+            "name": "Welcome",
+            "title": "Welcome To",
+            "focus": "Greenfield",
+            "backgroundImage": {
+                "src": "images/updates/0_5_4.jpg",
+                "alt": "Greenfield Map"
+            }
+        },
+        {
+            "id": "project",
+            "name": "Project",
+            "title": "Current Map Release",
+            "focus": "<span style={{color: \"#ffd800\"}}>v </span>0.5.<span style={{color: \"#ffd800\"}}>4</span>",
+            "link": {
+                "type": "page",
+                "target": "/project"
+            },
+            "backgroundImage": {
+                "src": "images/tower.jpg",
+                "alt": "Control Tower"
+            }
+        },
+        {
+            "id": "pack",
+            "name": "Resourcepack",
+            "title": "Current Resourcepack Release",
+            "focus": "1.20+",
+            "link": {
+                "type": "page",
+                "target": "/resourcepack"
+            },
+            "backgroundImage": {
+                "src": "images/skyliners.jpg",
+                "alt": "Skyliners Airline"
+            }
+        },
+        {
+            "id": "apply",
+            "name": "Apply",
+            "title": "Help Us Build!",
+            "focus": "Apply Now",
+            "link": {
+                "type": "reference",
+                "target": "application"
+            },
+            "backgroundImage": {
+                "src": "images/rockwell.jpg",
+                "alt": "Rockwell"
+            }
+        }
+    ],
+    "pageData": {
+        "title": "Greenfield Minecraft"
+    }
+}
