@@ -3,32 +3,50 @@
         {
             "id": "nav-apply",
             "text": "Apply",
-            "linkId": "application"
+            "link": {
+                "type": "reference",
+                "target": "application"
+            }
         },
         {
             "id": "nav-downloads",
             "text": "Downloads",
-            "link": "/downloads"
+            "link": {
+                "type": "page",
+                "target": "/downloads"
+            }
         },
         {
             "id": "nav-dynmap",
             "text": "Dynmap",
-            "linkId": "dynmap"
+            "link": {
+                "type": "reference",
+                "target": "dynmap"
+            }
         },
         {
             "id": "nav-patreon",
             "text": "Patreon",
-            "linkId": "patreon"
+            "link": {
+                "type": "reference",
+                "target": "patreon"
+            }
         },
         {
             "id": "about",
             "text": "About",
-            "link": "/about"
+            "link": {
+                "type": "page",
+                "target": "/about"
+            }
         }
     ],
     "navHome": {
         "id": "nav-home",
         "text": "Home",
-        "link": "/"
+        "link": {
+            "type": "page",
+            "target": "/"
+        }
     }
 }
