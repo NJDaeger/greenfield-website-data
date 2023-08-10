@@ -1,0 +1,54 @@
+{
+    "sideNavLinks": [
+        {
+            "id": "downloads",
+            "text": "Downloads",
+            "link": "/downloads"
+        },
+        {
+            "id": "project",
+            "text": "Project Home",
+            "link": "/project"
+        },
+        {
+            "id": "resourcepack",
+            "text": "Resourcepack Home",
+            "link": "/resourcepack"
+        },
+        {
+            "id": "wiki",
+            "text": "Project Wiki",
+            "linkId": "projectwiki"
+        },
+        {
+            "id": "application",
+            "text": "Apply",
+            "linkId": "application"
+        },
+        {
+            "id": "officialLinks",
+            "text": "Official Links",
+            "link": "/official-links"
+        },
+        {
+            "id": "about",
+            "text": "About",
+            "link": "/about"
+        },
+        {
+            "id": "conditions",
+            "text": "Terms of Use",
+            "link": "/conditions"
+        }
+    ],
+    "sideNavFooter": [
+        {
+            "id": "copyright",
+            "text": "The Greenfield Project © 2023"
+        },
+        {
+            "id": "contact",
+            "text": "contact@greenfieldmc.net"
+        }
+    ]
+}

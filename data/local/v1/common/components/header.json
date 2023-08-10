@@ -1,0 +1,34 @@
+{
+    "navItems": [
+        {
+            "id": "nav-apply",
+            "text": "Apply",
+            "linkId": "application"
+        },
+        {
+            "id": "nav-downloads",
+            "text": "Downloads",
+            "link": "/downloads"
+        },
+        {
+            "id": "nav-dynmap",
+            "text": "Dynmap",
+            "linkId": "dynmap"
+        },
+        {
+            "id": "nav-patreon",
+            "text": "Patreon",
+            "linkId": "patreon"
+        },
+        {
+            "id": "about",
+            "text": "About",
+            "link": "/about"
+        }
+    ],
+    "navHome": {
+        "id": "nav-home",
+        "text": "Home",
+        "link": "/"
+    }
+}
